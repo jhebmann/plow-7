@@ -1,0 +1,6 @@
+/usagers/plow-45/plow-sources/plow-argos3/embedding/build/CMakeFiles/edit_cache.dir
+/usagers/plow-45/plow-sources/plow-argos3/embedding/build/CMakeFiles/rebuild_cache.dir
+/usagers/plow-45/plow-sources/plow-argos3/embedding/build/CMakeFiles/sockets.dir
+/usagers/plow-45/plow-sources/plow-argos3/embedding/build/CMakeFiles/environment.dir
+/usagers/plow-45/plow-sources/plow-argos3/embedding/build/CMakeFiles/sockets_automoc.dir
+/usagers/plow-45/plow-sources/plow-argos3/embedding/build/CMakeFiles/environment_automoc.dir

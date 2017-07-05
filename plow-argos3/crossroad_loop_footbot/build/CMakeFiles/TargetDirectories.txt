@@ -1,0 +1,4 @@
+/usagers/plow-45/plow-sources/plow-argos3/crossroad_loop_footbot/build/CMakeFiles/edit_cache.dir
+/usagers/plow-45/plow-sources/plow-argos3/crossroad_loop_footbot/build/CMakeFiles/rebuild_cache.dir
+/usagers/plow-45/plow-sources/plow-argos3/crossroad_loop_footbot/build/CMakeFiles/crossroad_loop_footbot.dir
+/usagers/plow-45/plow-sources/plow-argos3/crossroad_loop_footbot/build/CMakeFiles/crossroad_loop_footbot_automoc.dir

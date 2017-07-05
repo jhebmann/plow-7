@@ -1,0 +1,9 @@
+tensorflow>=1.0.1
+matplotlib>=2.0
+flask>=0.12
+flask_socketio
+watchdog
+gym
+
+[rl]
+gym
